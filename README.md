@@ -16,7 +16,8 @@ Blog - https://blog.chetanverma.com/how-to-build-a-portfolio-website-using-nextj
 - Minimal Design
 - Easy To Browse
 - Easy To Customize your details With GUI
-- Blog Crud (Create, Read, Update, Delete blog with easy to use UI).
+- Blog Crud (Create, Read, Update, Delete blog with easy to use UI)
+- New! Allowed HTML or Notion to be inserted to blog
 - Dark Mode
 
 
